@@ -1,3 +1,7 @@
+# try this,
+https://github.com/haobug/Youku-Bypass  
+
+
 # Ubuntu_mplayer_PNG-read-error
 when it is the first time seeing the error with start mplayer,
 
