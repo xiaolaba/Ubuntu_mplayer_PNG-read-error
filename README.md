@@ -1,5 +1,5 @@
 # Ubuntu_mplayer_PNG-read-error
-when it is the first time seeing the error
+when it is the first time seeing the error with start mplayer,
 
     "Error in skin config file at line 6: PNG read error in /usr/share/mplayer/skins/default/main".
 
