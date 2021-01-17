@@ -8,6 +8,13 @@ when it is the first time seeing the error with start mplayer,
 CTRL+ALT, open temrinal  
 copy following and paste, build/run the script,  
 ```
+## install "perl" package
+sudo apt-get install perl
+
+## install "convert" package
+sudo apt install iamgemagick
+
+
 ## build the script first
 sudo tee -a fix.sh > /dev/null <<EOT
 
