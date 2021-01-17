@@ -1,10 +1,12 @@
 # Ubuntu_mplayer_PNG-read-error
-"Error in skin config file at line 6: PNG read error in /usr/share/mplayer/skins/default/main".
+when it is the first time seeing the error
+
+    "Error in skin config file at line 6: PNG read error in /usr/share/mplayer/skins/default/main".
 
 
-how to fix
-CTRL+ALT, open temrinal
-copy following and paste, run the script,
+## how to fix  
+CTRL+ALT, open temrinal  
+copy following and paste, build/run the script,  
 ```
 ## build the script first
 sudo tee -a fix.sh > /dev/null <<EOT
