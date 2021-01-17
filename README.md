@@ -12,6 +12,9 @@ when it is the first time seeing the error with start mplayer,
 CTRL+ALT, open temrinal  
 copy following and paste, build/run the script,  
 ```
+## install "mplayer" package
+sudo apt-get install mplayer mplayer-gui
+
 ## install "perl" package
 sudo apt-get install perl
 
@@ -19,7 +22,7 @@ sudo apt-get install perl
 sudo apt install iamgemagick
 
 
-## build the script first
+## build the script first. save as fix.sh
 sudo tee -a fix.sh > /dev/null <<EOT
 
 #!/bin/bash
